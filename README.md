@@ -1,5 +1,11 @@
 This project is a structured Flutter application with separate directories for platform-specific requirements, resources, and Dart code. The 'android' and 'ios' folders contain platform-specific files for Android and iOS, respectively. 'assets' holds all visual resources like images and fonts. The 'lib' folder is the core of the application, where 'main.dart' is the entry point. Inside 'lib', the 'core' subdirectory includes essential utilities, constants, error handling, and networking classes, while 'data' houses the API client, data models, and repositories for network communication. Localization support is provided in its own section, and the 'presentation' subdirectory contains UI elements, controllers, and models. Navigation is managed through the 'routes' directory, and 'theme' controls the visual style. Custom reusable widgets are located in the 'widgets' folder, completing the structure for a robust, well-organized Flutter application.
 
+<img width="631" alt="img3" src="https://github.com/malukishtiaq/ishtiaq_s_application1/assets/51942767/cb00f9d3-ddbd-4c13-9fd4-94b27bdd3247">
+<img width="631" alt="img2" src="https://github.com/malukishtiaq/ishtiaq_s_application1/assets/51942767/419461b6-7095-4474-bd7a-29c497375131">
+<img width="631" alt="img1" src="https://github.com/malukishtiaq/ishtiaq_s_application1/assets/51942767/430c8d9d-e63b-4ead-9217-adbbc3942ef6">
+
+
+
 ### System requirements
 
 Dart SDK Version 2.18.0 or greater.
