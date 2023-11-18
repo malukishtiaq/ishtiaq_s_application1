@@ -1,6 +1,8 @@
 
 # ishtiaq_s_application1
 
+##Delve into user interaction mastery with this exemplary project, where wizard screens meet GetX for seamless state management, setting a new standard in app user experience design.
+
 ### System requirements
 
 Dart SDK Version 2.18.0 or greater.
