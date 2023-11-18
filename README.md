@@ -1,4 +1,4 @@
-Delve into user interaction mastery with this exemplary project, where wizard screens meet GetX for seamless state management, setting a new standard in app user experience design.
+This project is a structured Flutter application with separate directories for platform-specific requirements, resources, and Dart code. The 'android' and 'ios' folders contain platform-specific files for Android and iOS, respectively. 'assets' holds all visual resources like images and fonts. The 'lib' folder is the core of the application, where 'main.dart' is the entry point. Inside 'lib', the 'core' subdirectory includes essential utilities, constants, error handling, and networking classes, while 'data' houses the API client, data models, and repositories for network communication. Localization support is provided in its own section, and the 'presentation' subdirectory contains UI elements, controllers, and models. Navigation is managed through the 'routes' directory, and 'theme' controls the visual style. Custom reusable widgets are located in the 'widgets' folder, completing the structure for a robust, well-organized Flutter application.
 
 ### System requirements
 
